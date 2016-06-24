@@ -1,1 +1,2 @@
 test1
+add repo2での追加
